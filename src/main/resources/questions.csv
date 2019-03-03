@@ -1,0 +1,6 @@
+"number","questionText","answers","correctAnswer"
+"1","Select the one correct answer. Which method defined in Integer class can be used to convert an Integer object to primitive int type","A.valueOf|B.intValue|C.getInt|D.getInteger","B"
+"2","What is the name of collection interface used to maintain mappings of keys to values?","A.List|B.Queue|C.SortedSet|D.Map","D"
+"3","What is the default priority of a newly created thread?","A.MIN_PRIORITY (which is defined as 1 in the Thread class.)|B.NORM_PRIORITY (which is defined as 5 in the Thread class.)|C.MAX_PRIORITY (which is defined as 10 in the Thread class.)|D.Inherited","B"
+"4","Which of the following is not a return type?","A.boolean|B.void|C.public|D.Button","C"
+"5","What is returned when the method substring(2, 4) is invoked on the string 'example'? Include the answer in quotes as the result is of type String.","A.xa|B.am|C.xm|D.xamp","B"
